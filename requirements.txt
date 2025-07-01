@@ -1,0 +1,6 @@
+pandas~=2.3.0
+torch~=2.7.1+cu118
+scikit-learn~=1.7.0
+matplotlib~=3.10.3
+numpy~=2.1.2
+pytest~=8.4.1
